@@ -1,0 +1,13 @@
+org_name: nullstone
+name: gcp-certificate-map
+friendly_name: Certificate Map
+description: Creates a Certificate Map in GCP Certificate Manager
+category: datastore
+subcategory: ""
+provider_types:
+    - gcp
+platform: tls
+subplatform: certificate-map
+type: ""
+appCategories: []
+is_public: true
